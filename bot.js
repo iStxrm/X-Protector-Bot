@@ -6,8 +6,8 @@ var bot = new Discord.Client();
 const prefix = 'x!';
 bot.on('ready', () => {
 console.log("Ready");
-bot.user.setActivity(`${prefix}help| BETA Version`);
-bot.user.setStatus(`online`);
+bot.user.setActivity(`${prefix}help|Low maintence.`);
+bot.user.setStatus(`idle`);
   
 });
 
