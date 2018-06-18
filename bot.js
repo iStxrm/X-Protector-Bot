@@ -205,7 +205,7 @@ nUser.sendMessage(`Hey! ${msg.author} needs you at ${msg.channel} . :eyes: `).ca
 
 console.log('Starting...')
 
-console.log('Logged in')
+console.log('Logged in') kl;
 bot.login(process.env.BOT_TOKEN);
 
 
